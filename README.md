@@ -1,5 +1,5 @@
 1. Halaman image docker desktop (setelah push image project dan pull image dari teman)
-   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2594d8c0-7b81-42e2-88a6-b3b9d52bf52b" />
+   <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9327e044-71fe-4606-8ad9-5fe5fd80b9f1" />
 
 3. Halaman container docker desktop (setelah membuat container dari image dari teman)
    <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/bef36e72-48a1-4928-b09c-c59f909fba05" />
